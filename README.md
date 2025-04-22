@@ -33,6 +33,12 @@ To start the server in dev mode, run the following command:
 ```bash
 uv run mcp dev server.py
 ```
+## Claude Desktop
+To install the server in your Claude Desktop, run the following command:
+```bash
+uv run mcp install server.py
+```
+
 
 ## Contribution Guidelines
 We welcome contributions! To contribute:

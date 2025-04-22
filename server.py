@@ -26,3 +26,6 @@ def retrieve_package_info(name: str):
     except Exception as e:
         print(f"Error retrieving package info: {e}")
         return None
+
+if __name__ == "__main__":
+    mcp.run()
